@@ -2,6 +2,7 @@ Getting-and-Cleaning-Data-course-project
 ========================================
 
 PROJECT
+
 The purpose of this project is to demonstrate the writer's ability to collect, work with, and clean a data set. 
 The goal is to prepare tidy data that can be used for later analysis. 
 
@@ -27,9 +28,11 @@ The original data from the UCI HAR DataSet for the purposes of thie project is i
 
 
 
+
 From UCI HAR DataSet README.md: Each feature vector is a row on the text file.
 
 For more information about this dataset contact: activityrecognition@smartlab.ws
+
 
 License:
 
