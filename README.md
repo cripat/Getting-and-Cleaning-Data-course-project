@@ -38,4 +38,4 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 SCRIPTS
 
-##
+The original data from the UCI HAR DataSet for the purposes of thie project is imported into Rstudio, where it is merged, specific data is selected, data activity names are used, variable names are labelled, and the output is transmitted as a tidy data set.
