@@ -6,7 +6,6 @@
 ## 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 
-
 # 1. Merge training and test sets to create 1 data set
 
 #set working directory
