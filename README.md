@@ -19,14 +19,20 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-From UCI HAR DataSet README.md:
 
-- Each feature vector is a row on the text file.
+
+SCRIPTS
+
+The original data from the UCI HAR DataSet for the purposes of thie project is imported into Rstudio, where it is merged, specific data is selected, data activity names are used, variable names are labelled, and the output is transmitted as a tidy data set.
+
+
+
+From UCI HAR DataSet README.md: Each feature vector is a row on the text file.
 
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
 License:
-========
+
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
@@ -35,7 +41,3 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-
-SCRIPTS
-
-The original data from the UCI HAR DataSet for the purposes of thie project is imported into Rstudio, where it is merged, specific data is selected, data activity names are used, variable names are labelled, and the output is transmitted as a tidy data set.
